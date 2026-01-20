@@ -85,6 +85,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[GetFeedback](https://www.getfeedback.com/)** - Feedback solution for Salesforce.
 - **[UserVoice](https://www.uservoice.com/)** - Collects and prioritizes product feedback.
 - **[Hotjar](https://www.hotjar.com/)** - Heatmaps and user feedback to understand behavior.
+- **[feedback.tools](https://feedback.tools/)** - AI-powered platform to capture, organize, and prioritize user feedback from all channels.
 
 ## Data Analytics and Business Intelligence
 
