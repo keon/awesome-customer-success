@@ -76,6 +76,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[UserGuiding](https://userguiding.com/)** - Enhances engagement with onboarding and walkthroughs.
 - **[eWebinar](https://ewebinar.com/)** - Automated webinars for scalable onboarding and training.
 - **[Rocketlane](https://www.rocketlane.com/)** - Purpose-built for customer onboarding and project management.
+- **[Frigade](https://frigade.com/)** - AI assistant that lives inside your product, learns it autonomously, and helps users complete real workflows.
 
 ## Customer Feedback and Survey Tools
 
