@@ -49,6 +49,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Pocus](https://www.pocus.com/)** - Product-led sales intelligence tool for identifying opportunities.
 - **[Involve.ai](https://www.involve.ai/)** - AI-powered customer intelligence platform for predictive insights.
 - **[Toplyne](https://www.toplyne.io/)** - Platform for identifying and converting product qualified leads.
+- **[Beton Inspector](https://github.com/getbeton/inspector)** - Open-source revenue intelligence; scores accounts from PostHog product-usage data + CRM and surfaces churn, expansion, and PQL signals. Self-hostable (OSS alternative to Pocus / Common Room).
 
 ## Customer Relationship Management (CRM)
 
