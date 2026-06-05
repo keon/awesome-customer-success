@@ -127,6 +127,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 ## Churn Prediction and Retention Tools
 
 - **[Custify](https://www.custify.com/)** - Focuses on SaaS retention.
+- **[Churnkey](https://www.churnkey.co)** - Retention infrastructure for SaaS companies. 
 - **[Brightback](https://brightback.com/)** - Automates retention for subscriptions.
 - **[ProfitWell Retain](https://www.profitwell.com/retain)** - Reduces churn and failed payments.
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
