@@ -88,6 +88,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[UserVoice](https://www.uservoice.com/)** - Collects and prioritizes product feedback.
 - **[Hotjar](https://www.hotjar.com/)** - Heatmaps and user feedback to understand behavior.
 - **[feedback.tools](https://feedback.tools/)** - AI-powered platform to capture, organize, and prioritize user feedback from all channels.
+- **[ReputeMap](https://reputemap.com/review-management-software-for-agencies)** - Google review management software for agencies to monitor reviews, draft AI replies, request more reviews, and send white-label client reports.
 - **[Quackback](https://quackback.io/)** - Open source feedback platform with voting boards, public roadmaps, and changelogs.
 
 ## Data Analytics and Business Intelligence
