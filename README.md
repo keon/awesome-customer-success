@@ -97,6 +97,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Looker](https://looker.com/)** - Find, explore, and understand your data easily.
 - **[Domo](https://www.domo.com/)** - Cloud-based business intelligence platform.
 - **[Sisense](https://www.sisense.com/)** - Simplifies complex data with analytics.
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## Knowledge Base and Documentation
 
