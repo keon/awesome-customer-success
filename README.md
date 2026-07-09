@@ -193,6 +193,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[SaaS Implementation Evidence Note](https://gist.github.com/ciihom/4efd8b714ca2dffcfe0115886927f08d)** - A practical note on checking whether public setup, help, and trust pages answer onboarding risk before the sales-to-CS handoff.
 
 ---
 
