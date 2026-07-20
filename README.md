@@ -114,6 +114,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Google Workspace](https://workspace.google.com/)** - Cloud computing and collaboration tools.
 - **[Asana](https://asana.com/)** - Work management platform to stay focused on goals.
 - **[Mailchimp](https://mailchimp.com/)** - Email marketing and automation for engagement.
+- **[Runbear](https://runbear.io/)** - Shared AI teammates in Slack and Microsoft Teams that read customer context, use connected tools, and complete customer success workflows.
 
 ## Customer Engagement Platforms
 
