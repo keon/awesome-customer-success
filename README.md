@@ -196,6 +196,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[Comms Advisor - Best Help Desk Software](https://commsadvisor.com/best-help-desk-software/)** - Comparison guide covering pricing, setup, and automation across top help desk platforms.
 
 ---
 
