@@ -196,6 +196,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[Churn Is Dead](https://churnisdead.com/)** - Weekly evidence-led Customer Success newsletter by Kuber Sethi; each issue frames one operating decision and includes a practical tool.
 
 ---
 
