@@ -33,6 +33,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Gainsight](https://www.gainsight.com/)** - A comprehensive customer success platform with health scoring, automation, and analytics.
 - **[Totango](https://www.totango.com/)** - Tools for customer engagement, retention, and journey mapping through SuccessBLOCs templates.
 - **[ChurnZero](https://churnzero.net/)** - Real-time platform focused on reducing churn and driving growth.
+- **[OpenRetention](https://yashkhou.github.io/openretention/)** - Source-available, self-hosted customer success software for B2B SaaS with explainable health scoring, churn-risk signals, renewals, and revenue-at-risk prioritization.
 - **[ClientSuccess](https://www.clientsuccess.com/)** - Simplifies customer success with actionable insights, playbooks, and health scores.
 - **[Planhat](https://www.planhat.com/)** - Centralizes customer data and predicts churn with a data-driven approach.
 - **[UserIQ](https://useriq.com/)** - Offers insights and engagement tools for scaling success efforts.
