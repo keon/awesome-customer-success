@@ -125,7 +125,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Insider](https://useinsider.com/)** - AI-powered cross-channel marketing.
 - **[Mixpanel](https://mixpanel.com/)** - User analytics for tracking engagement and retention.
 - **[Intercom](https://www.intercom.com/)** - Messaging for customer engagement.
-- **[Hellomatik](https://hellomatik.com)** - AI agents that answer, sell and book across WhatsApp, email and web from your company knowledge.
+- **[Hellomatik](https://hellomatik.com)** - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 
 ## Churn Prediction and Retention Tools
 
