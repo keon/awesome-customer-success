@@ -196,6 +196,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[Draft First free CS tools](https://draftfirstcs.com/tools/)** - Free browser calculators for churn rate, churn risk, health score, NRR and GRR, and CSM capacity. No sign-up.
 
 ---
 
