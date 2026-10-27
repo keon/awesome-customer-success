@@ -90,6 +90,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Hotjar](https://www.hotjar.com/)** - Heatmaps and user feedback to understand behavior.
 - **[feedback.tools](https://feedback.tools/)** - AI-powered platform to capture, organize, and prioritize user feedback from all channels.
 - **[Quackback](https://quackback.io/)** - Open source feedback platform with voting boards, public roadmaps, and changelogs.
+- **[WishKit](https://www.wishkit.io/)** - In-app feature request board with user voting for iOS and web apps.
 
 ## Data Analytics and Business Intelligence
 
