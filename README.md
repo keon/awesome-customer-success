@@ -196,6 +196,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[Churn and retention calculators](https://kicklace.com/churn-rate-calculator)** - Free, no sign-up: monthly churn, what it comes to over a year, and customer retention rate ([retention calculator](https://kicklace.com/retention-rate-calculator)).
 
 ---
 
