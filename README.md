@@ -68,6 +68,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Workforce Wave](https://www.workforcewave.com/)** - AI voice agent that answers calls, books appointments, and handles after-hours customer inquiries.
 
 ## Onboarding and Training Tools
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 - **[WalkMe](https://www.walkme.com/)** - Simplifies user experience and drives action.
 - **[Appcues](https://www.appcues.com/)** - Delivers exceptional user onboarding for product-led growth.
