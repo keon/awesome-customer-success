@@ -79,6 +79,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[eWebinar](https://ewebinar.com/)** - Automated webinars for scalable onboarding and training.
 - **[Rocketlane](https://www.rocketlane.com/)** - Purpose-built for customer onboarding and project management.
 - **[Frigade](https://frigade.com/)** - AI assistant that lives inside your product, learns it autonomously, and helps users complete real workflows.
+- **[Cueston](https://cueston.com/)** - No-code product tours, tooltips, checklists and banners, with an AI agent and MCP server for building them.
 
 ## Customer Feedback and Survey Tools
 
