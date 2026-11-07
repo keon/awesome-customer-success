@@ -136,6 +136,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
 - **[Baremetrics](https://baremetrics.com/)** - Subscription analytics including churn tracking.
 - **[RevLifter](https://revlifter.com/)** - Personalized customer retention solutions.
+- **[North Metric](https://www.northmetric.io/)** - Churn prediction for SaaS on Stripe; flags customers likely to cancel, ranked by revenue at risk.
 
 ## Learning Management Systems (LMS)
 
