@@ -126,6 +126,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Mixpanel](https://mixpanel.com/)** - User analytics for tracking engagement and retention.
 - **[Intercom](https://www.intercom.com/)** - Messaging for customer engagement.
 - **[Hellomatik](https://hellomatik.com)** - AI agents that answer, sell and book across WhatsApp, email and web from your company knowledge.
+- **[FeedLog](https://feedlog.ai/)** - Open-source AI customer support platform for SaaS teams.
 
 ## Churn Prediction and Retention Tools
 
