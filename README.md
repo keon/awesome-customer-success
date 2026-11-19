@@ -66,6 +66,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Help Scout](https://www.helpscout.com/)** - Simple help desk for small businesses.
 - **[Kayako](https://www.kayako.com/)** - Unified service platform with live chat and email.
 - **[Workforce Wave](https://www.workforcewave.com/)** - AI voice agent that answers calls, books appointments, and handles after-hours customer inquiries.
+- **[SealReply](https://www.sealreply.com/)** - Live chat for small website teams, with live visitors, offline email capture and lead follow-up.
 
 ## Onboarding and Training Tools
 
