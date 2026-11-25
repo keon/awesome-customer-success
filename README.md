@@ -136,6 +136,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
 - **[Baremetrics](https://baremetrics.com/)** - Subscription analytics including churn tracking.
 - **[RevLifter](https://revlifter.com/)** - Personalized customer retention solutions.
+- **[Retivo](https://retivo.digital)** - Revenue leak report and recovery for Stripe subscription businesses: failed payments, cancellations, win-back.
 
 ## Learning Management Systems (LMS)
 
@@ -196,6 +197,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HubSpot Resources](https://www.hubspot.com/resources/customer-success)** - Guides and templates.
 - **[Catalyst Blog](https://catalyst.io/blog)** - Insights on success management.
 - **[The CS Cafe Newsletter](https://www.thecscafe.com)** - Weekly Customer Success Newsletter by Hakan Ozturk.
+- **[Retention from zero](https://ivanbolonikhin.com/blog)** - Free blog series on retention for owners starting from scratch: cancel flows, failed payments, measuring with control groups.
 
 ---
 
