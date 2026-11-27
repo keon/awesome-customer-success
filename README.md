@@ -90,6 +90,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Hotjar](https://www.hotjar.com/)** - Heatmaps and user feedback to understand behavior.
 - **[feedback.tools](https://feedback.tools/)** - AI-powered platform to capture, organize, and prioritize user feedback from all channels.
 - **[Quackback](https://quackback.io/)** - Open source feedback platform with voting boards, public roadmaps, and changelogs.
+- **[Cancellation Reason Sorter](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/)** - Groups pasted cancellation survey answers into themes and suggests follow-up interview questions.
 
 ## Data Analytics and Business Intelligence
 
@@ -136,6 +137,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
 - **[Baremetrics](https://baremetrics.com/)** - Subscription analytics including churn tracking.
 - **[RevLifter](https://revlifter.com/)** - Personalized customer retention solutions.
+- **[Cancel-Page Churn Survey Widget](https://nar-vardanyan.github.io/frank-mcp/tools/churn-interview-widget/)** - MIT-licensed cancel-page survey that asks why a customer is leaving, then lets the cancel continue. Works with Stripe and Paddle.
 
 ## Learning Management Systems (LMS)
 
