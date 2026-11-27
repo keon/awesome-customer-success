@@ -106,6 +106,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[HelpDocs](https://www.helpdocs.io/)** - Easy-to-use knowledge base creation.
 - **[Guru](https://www.getguru.com/)** - Keeps information accessible with knowledge management.
 - **[Document360](https://document360.io/)** - Knowledge base software for SaaS products.
+- **[DocsAlot](https://docsalot.dev/)** - Knowledge base platform with AI-powered answers and semantic search.
 
 ## Communication and Collaboration Tools
 
