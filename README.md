@@ -136,6 +136,7 @@ A curated list of awesome tech resources for customer success professionals. Thi
 - **[Strikedeck](https://strikedeck.com/)** - Automates success to reduce churn.
 - **[Baremetrics](https://baremetrics.com/)** - Subscription analytics including churn tracking.
 - **[RevLifter](https://revlifter.com/)** - Personalized customer retention solutions.
+- **[Frank Churn Interviews for Stripe](https://github.com/nar-vardanyan/frank-stripe-churn-interviews)** - Open-source app that emails a short voice interview after a Stripe cancellation.
 
 ## Learning Management Systems (LMS)
 
